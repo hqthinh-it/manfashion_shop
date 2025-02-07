@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6557a5741c8f6dfd15d269d8"
+  },
+  "username": "thinh2104",
+  "password": "123",
+  "fullname": "Thinh Huynh",
+  "gender": "1",
+  "email": "thinhhuynh21@example",
+  "address": "Can Tho",
+  "phone": "0799123789",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2023-11-17T17:40:04.981Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T17:14:36.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6557ad5fb905ef1425fb8281"
+  },
+  "username": "admin",
+  "password": "123",
+  "fullname": "Thinh Huynh",
+  "gender": "1",
+  "email": "thinhhuynh21@example",
+  "address": "Can Tho",
+  "phone": "0799123789",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2023-11-17T17:40:04.981Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T17:40:04.981Z"
+  }
+}]

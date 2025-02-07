@@ -1,0 +1,139 @@
+
+.navbar {
+    z-index: 1;
+    align-items: center;
+    width: 100%;
+    border-bottom: 2px solid rgb(2, 101, 18);
+    height: 120px;
+}
+
+
+.nav-link {
+    color: white;
+}
+
+
+/* Animation nav-item */
+.navbar-nav .nav-item {
+    animation: fade 0.4s linear backwards;
+    animation-delay: calc(0.4s * var(--x));
+
+}
+
+@keyframes fade {
+    0% {
+        transform: translateX(-30px);
+        opacity: 0;
+    }
+}
+
+ul.main-menu {
+    list-style: none;
+    display: flex;
+}
+
+ul.main-menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    display: block;
+    font-weight: bold;
+    color: rgb(2, 101, 18);
+}
+
+
+.nav-item:hover a {
+    color: rgba(244, 123, 31, 0.9) !important;
+}
+
+.nav-item:hover {
+    transition: all 0.5s ease;
+}
+
+.nav-item:hover .subnav-menu {
+    display: block;
+}
+
+.nav-item li:hover {
+    cursor: pointer;
+}
+
+.right-bar {
+    position: absolute;
+    right: 10px;
+}
+
+.right-bar input {
+    border: 2px solid rgb(2, 101, 18);
+}
+
+.right-bar button{
+    color: rgb(2, 101, 18);
+    border: 2px solid rgb(2, 101, 18);
+    margin-right: 10px;
+}
+
+
+.right-bar button:hover{
+    color: rgb(2, 101, 18);
+    border: 2px solid rgb(2, 101, 18);
+    background-color: rgba(244, 123, 31, 0.9) !important;
+    margin-right: 10px;
+}
+
+.offcanvas {
+    /* background-image: linear-gradient(rgb(207, 207, 243), rgb(25, 25, 184)); */
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.login-box {
+    width: 300px;
+    margin: auto;
+}
+
+.login-logo {
+    width: 150px;
+    margin: 10px;
+}
+
+.login-img-box {
+    width: 150px;
+    margin: auto;
+}
+
+.sign-in-box label,
+.sign-in-box button {
+    color: rgb(244, 202, 235);
+}
+
+/* All Button */
+button{
+    color: rgb(2, 101, 18) !important;
+    border: 2px solid rgb(2, 101, 18) !important;
+}
+
+button:hover{
+    color: white !important;
+    background-color: rgba(244, 123, 31, 0.9) !important;
+}
+
+
+.search-btn{
+    border-radius: 0px 5px 5px 0px !important;
+}
+
+.title{
+    color: rgb(244, 123, 31);
+    font: bold;
+}
+
+#wrapper {
+    height: 100%;
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+    background: #fff;
+}
+
+
+

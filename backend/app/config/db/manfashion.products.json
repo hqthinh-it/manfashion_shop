@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "655e0c7b9d5e794b31ab7e63"
+  },
+  "category_id": 1,
+  "productname": "Áo Thiết Kế SPEED 31",
+  "color": "Trắng Đen",
+  "size": "2",
+  "price": 390000,
+  "amount": 18,
+  "decribe": "Áo Thun Có Dây Kéo Tay Dài Vải Cotton 2 Chiều Thấm Hút Phối Màu Dáng Rộng BST Thiết Kế SPEED 31",
+  "createdAt": {
+    "$date": "2023-11-22T14:13:15.918Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T09:07:23.500Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e0cd49d5e794b31ab7e72"
+  },
+  "category_id": 1,
+  "productname": "Áo Polo Thiết Kế SPEED 23",
+  "color": "Trắng Đen",
+  "size": "2",
+  "price": 200000,
+  "amount": 30,
+  "decribe": "Áo Polo Cổ Bẻ Tay Ngắn Sợi Nhân Tạo Thoáng Mát Phối Màu Dáng Rộng BST Thiết Kế SPEED 23",
+  "createdAt": {
+    "$date": "2023-11-22T14:14:44.131Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T15:46:21.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e0d309d5e794b31ab7e7f"
+  },
+  "category_id": 1,
+  "productname": "Áo Thiết Kế SPEED 30",
+  "color": "Đen",
+  "size": "2",
+  "price": 287000,
+  "amount": 48,
+  "decribe": "Áo Thun Cổ Tròn Tay Ngắn Vải Cotton 2 Chiều Thấm Hút Phối Màu Dáng Vừa BST Thiết Kế SPEED 30",
+  "createdAt": {
+    "$date": "2023-11-22T14:16:16.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:21:07.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e0db69d5e794b31ab7e8d"
+  },
+  "category_id": 1,
+  "productname": "Áo Sơ Mi Cổ Bẻ SPEED 40",
+  "color": "Xám",
+  "size": "2",
+  "price": 297000,
+  "amount": 40,
+  "decribe": "Áo Sơ Mi Cổ Bẻ Tay Ngắn Sợi Nhân Tạo Nhanh Khô Biểu Tượng Dáng Rộng BST Thiết Kế SPEED 40",
+  "createdAt": {
+    "$date": "2023-11-22T14:18:30.667Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T15:46:35.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e0eb39d5e794b31ab7eba"
+  },
+  "category_id": 2,
+  "productname": "Áo Thun Space Ver2",
+  "color": "Đen",
+  "size": "3",
+  "price": 255000,
+  "amount": 50,
+  "decribe": "Áo Thun Cổ Tròn Tay Ngắn Vải Cotton 2 Chiều Thấm Hút Biểu Tượng Dáng Vừa BST Thiết Kế Space Ver2",
+  "createdAt": {
+    "$date": "2023-11-22T14:22:43.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T15:47:12.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e0f7f9d5e794b31ab7edd"
+  },
+  "category_id": 2,
+  "productname": "Áo Thun Originals Ver51",
+  "color": "Trắng",
+  "size": "1",
+  "price": 200000,
+  "amount": 30,
+  "decribe": "Áo Thun Cổ Tròn Tay Ngắn Vải Cotton 4 Chiều Co Giãn Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver51",
+  "createdAt": {
+    "$date": "2023-11-22T14:26:07.975Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T15:47:22.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e102a9d5e794b31ab7ee9"
+  },
+  "category_id": 2,
+  "productname": "Áo Thun Cổ Tròn Y2010 Originals ",
+  "color": "Đen",
+  "size": "2",
+  "price": 200000,
+  "amount": 30,
+  "decribe": "Áo Thun Cổ Tròn Tay Ngắn Vải Cotton 2 Chiều Thấm Hút Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver23",
+  "createdAt": {
+    "$date": "2023-11-22T14:28:58.742Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T15:47:28.156Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655e10b29d5e794b31ab7efd"
+  },
+  "category_id": 2,
+  "productname": "Áo Thun Y2010 Ver87",
+  "color": "Đen",
+  "size": "3",
+  "price": 200000,
+  "amount": 14,
+  "decribe": "Áo Thun Cổ Tròn Tay Ngắn Vải Cotton 2 Chiều Thấm Hút Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver87",
+  "createdAt": {
+    "$date": "2023-11-22T14:31:14.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T08:05:11.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ecd5511c6a6ed64f8da39"
+  },
+  "category_id": 3,
+  "productname": "Áo Sơ Mi Dáng Rộng Originals ",
+  "color": "Đen",
+  "size": "1",
+  "price": 200000,
+  "amount": 20,
+  "decribe": "Áo Sơ Mi Cổ Mở Tay Ngắn Sợi Nhân Tạo Nhanh Khô Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver20",
+  "createdAt": {
+    "$date": "2023-11-23T03:56:05.501Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T03:56:05.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ecda511c6a6ed64f8da41"
+  },
+  "category_id": 3,
+  "productname": "Áo Sơ Mi Cổ Mở Y2010 ",
+  "color": "Xám",
+  "size": "2",
+  "price": 190000,
+  "amount": 50,
+  "decribe": "Áo Sơ Mi Cổ Mở Tay Ngắn Sợi Nhân Tạo Nhanh Khô Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver31",
+  "createdAt": {
+    "$date": "2023-11-23T03:57:25.356Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T03:57:25.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ecde611c6a6ed64f8da55"
+  },
+  "category_id": 3,
+  "productname": "Áo Sơ Mi Cổ Originals Ver21",
+  "color": "Trắng Đen",
+  "size": "2",
+  "price": 390000,
+  "amount": 30,
+  "decribe": "Áo Sơ Mi Cổ Mở Tay Ngắn Sợi Nhân Tạo Nhanh Khô Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver21",
+  "createdAt": {
+    "$date": "2023-11-23T03:58:30.550Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T03:58:30.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ece1611c6a6ed64f8da5d"
+  },
+  "category_id": 3,
+  "productname": "Áo Sơ Mi Trắng Basic",
+  "color": "Trắng",
+  "size": "2",
+  "price": 200000,
+  "amount": 50,
+  "decribe": "Áo Sơ Mi Cổ Bẻ Tay Dài Sợi Modal Ít Nhăn Trơn Dáng Vừa Đơn Giản Gu Tối Giản M11",
+  "createdAt": {
+    "$date": "2023-11-23T03:59:18.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T03:59:18.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ed3db11c6a6ed64f8e2d7"
+  },
+  "category_id": 4,
+  "productname": "Áo Khoác Originals Ver28",
+  "color": "Đen",
+  "size": "2",
+  "price": 390000,
+  "amount": 20,
+  "decribe": "Áo Khoác Không Nón Vải Denim Chống Nắng Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver28",
+  "createdAt": {
+    "$date": "2023-11-23T04:23:55.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:23:55.472Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ed41711c6a6ed64f8e2df"
+  },
+  "category_id": 4,
+  "productname": "Áo Khoác Denim ",
+  "color": "Nâu",
+  "size": "1",
+  "price": 287000,
+  "amount": 30,
+  "decribe": "Áo Khoác Không Nón Vải Denim Chống Nắng Biểu Tượng Dáng Rộng BST Thiết Kế Y2010 Originals Ver28",
+  "createdAt": {
+    "$date": "2023-11-23T04:24:55.282Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:26:02.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ed44811c6a6ed64f8e2e7"
+  },
+  "category_id": 4,
+  "productname": "Áo Khoác Có Nón POSEIDON",
+  "color": "Đen",
+  "size": "2",
+  "price": 390000,
+  "amount": 40,
+  "decribe": "Áo Khoác Có Nón Vải Thun Giữ Ấm Biểu Tượng Dáng Rộng BST Thiết Kế POSEIDON Ver2",
+  "createdAt": {
+    "$date": "2023-11-23T04:25:44.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:25:44.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "655ed49011c6a6ed64f8e315"
+  },
+  "category_id": 4,
+  "productname": "Áo Khoác Aides Ver1",
+  "color": "Đỏ Cam",
+  "size": "2",
+  "price": 390000,
+  "amount": 50,
+  "decribe": "Áo Khoác Không Nón Vải Dù Chống Nắng Biểu Tượng Dáng Rộng BST Thiết Kế Aides Ver1",
+  "createdAt": {
+    "$date": "2023-11-23T04:26:56.589Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:26:56.589Z"
+  }
+}]
